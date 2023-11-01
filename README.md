@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Developer Seulki Lee 👋
 
 <div align="left">
-## 🔨 Skill 🔨
-<div>
+🔨 Skill 🔨
+<div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   	<img src="https://img.shields.io/badge/STS3-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<br>
-## 📞 Contact 📞
+<hr>
+📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:boong2469@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
